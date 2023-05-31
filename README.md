@@ -22,7 +22,7 @@
 
 # 🚀 Contact or Follow 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0)](https://t.me/bogdanvoronov95)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27a)](https://www.linkedin.com/in/bogdan-voronov)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27a)](https://www.linkedin.com/in/bogdan-voronov/)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=27A0)](https://www.instagram.com/bohdvnxvoronov/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=27A0)](https://www.facebook.com/profile.php?id=100009134902197)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=27A0)](https://mail.google.com/mail/u/1/#inbox)
